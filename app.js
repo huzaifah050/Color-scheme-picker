@@ -1,5 +1,5 @@
 function addColor(e) {
-  console.log(e.target.id);
+
   document.body.style.background = `${e.target.id}`;
 }
 
